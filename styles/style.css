@@ -61,4 +61,9 @@ img {
     width: 550px;    
  }
 
+ .faixa {
+    background-color: #E8B6FF;
+    display: flex;
+ }
+
  /* css para o desafio */
