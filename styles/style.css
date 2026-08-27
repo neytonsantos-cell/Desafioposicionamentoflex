@@ -1,0 +1,62 @@
+img {
+    width: 200px;
+}
+#fantasma {
+    width: 100px;
+}
+
+.itens-estremidades {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+ }
+
+.itens-espacados {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+ }
+
+.itens-centro {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+ }
+
+.itens-direita {
+    background-color: aqua;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 50px;
+ }
+
+ .amarelo {
+    background-color: yellow;
+    
+ }
+
+ .grupo-espacado {
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+ }
+
+ .itens-vertical {
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 960px;
+    margin-bottom: 50px;
+ }
+
+ .grupo-menor {    
+    width: 340px;    
+ }
+
+ .grupo-maior {    
+    width: 550px;    
+ }
